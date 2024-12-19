@@ -5,8 +5,7 @@ Please provide any types of student projects that can help you move your project
 
 Roberto Vega  -  Unreal Shadow Puppet Stage
 Tshari Yancey  -  Scriptwriter, Novelist, Physical Puppet World Building
-Sam Cheung  -  AI images and videosw and also Puppet fabrication.  New ones and puppeteering. World Building
+Sam Cheung  -  AI images and video Background and also Puppet /designfabrication.  New ones and puppeteering. World Building. Incorperatng Video To Blended Shadow Puppet Show
 Cordell - Lane - Lumbra Chess like game development. Narrative. World Building.  Game Origins.
 Hugo Sanchez - Unity Asset importing and document.
 
-hi
